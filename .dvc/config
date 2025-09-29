@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = C:\Users\gajen\Desktop\MLOPS\mlops-mini-project-data
